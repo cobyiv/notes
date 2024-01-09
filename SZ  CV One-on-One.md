@@ -10,9 +10,9 @@
 
 #### Prefab Facility Move
 
-- <span style='color:red'>**SZ**</span> Send me thos links to temp facility
-- <span style='color:red'>**CV**</span> Send email to David, cc you, robert, others, provide links also request the survey to be provided us.
-- <span style='color:red'>**CV**</span> This friday to look at new places.
+- <span style='color:red'>**<u>SZ</u>**</span> Send me thos links to temp facility
+- <u><span style='color:red'>**CV**</span></u> Send email to David, cc you, robert, others, provide links also request the survey to be provided us.
+- <u><span style='color:red'>**CV**</span></u> This friday to look at new places.
 
 #### NSP Framing
 
@@ -26,7 +26,7 @@
 - Dan - Framing 
 
 #### Labor Tracking
-<span style='color:red'>**CV**</span> Labor Reporting
+<span style='color:red'>**<u>CV</u>**</span> Labor Reporting
 
 - Job Code
 - Cost Code
@@ -37,5 +37,5 @@
 
 
 #### 95 Bedford
-<span style='color:red'>**CV**</span> Call Mike - RE: 95B SPD
+<span style='color:red'>**<u>CV</u>**</span> Call Mike - RE: 95B SPD
 
