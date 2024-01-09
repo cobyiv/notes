@@ -4,30 +4,29 @@
 
 
 
-## 1.9.2024 SZ Meeting Notes
+## 1.9.2024 Meeting
 
 
 
-### Prefab Facility Move
+#### Prefab Facility Move
 
-- Send me thos links
-- Send email to David, cc you, robert, others, provide links also request the survey to be provided us.
-- This friday to look at new places.
+- <span style='color:red'>**SZ**</span> Send me thos links to temp facility
+- <span style='color:red'>**CV**</span> Send email to David, cc you, robert, others, provide links also request the survey to be provided us.
+- <span style='color:red'>**CV**</span> This friday to look at new places.
 
+#### NSP Framing
 
+- Switches/Outlet Communication Approach in Submittals
 
-### NSP Framing
+- Weke Start Request - Communicate to Reid Effectively
 
-Switches/Outlet Request
-
-Weke Start Request
-
-K4 Request
+#### K4 Request
 
 - Bryan - Concrete Drawings and Coordination
 - Dan - Framing 
 
-Labor Reporting
+#### Labor Tracking
+<span style='color:red'>**CV**</span> Labor Reporting
 
 - Job Code
 - Cost Code
@@ -37,9 +36,6 @@ Labor Reporting
 - Cost associates
 
 
-
-Mike - 
-
-- 95 Bedford
-- 
+#### 95 Bedford
+<span style='color:red'>**CV**</span> Call Mike - RE: 95B SPD
 
