@@ -32,7 +32,8 @@
 - DKIM, SPF implented, DMARC.
 - Mary coby-admin
 - Coby to check invoices on HH2
-- Daniel to try cost coding, finding images of invoices,
+
+  - Daniel to try cost coding, finding images of invoices,
 - 1/15 HQ - Century Link
   Contractors - Security Training,  - Writing a
 - SSO 
@@ -44,3 +45,11 @@
   - Do we know the mechanism or the policy that we need to change to enforce an authenticator only MFA with the number input.
   - 
   - Force Authentication with Authenticator with Number 
+
+
+
+## 01.29.2024
+
+- Knowbe4 & Phish ER- Trial and Test
+
+  - Knowbe4 Inky Configuration - Assigned Tatian
