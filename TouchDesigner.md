@@ -385,4 +385,16 @@ Reference: https://forum.derivative.ca/t/op-color-labels/2426
 - Animaite with AI Seed Travel Youtube: https://youtu.be/MsO77hV121c?si=mpDqgY9pMvDjDJMT
   - Upscale '4x_foolhardy_Remacri' good for upscaling
   - Create prompts from images: https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2
-  - 
+
+#### TouchDesigner x StableDiffusion
+- Tutorial https://youtu.be/4wpn_3JNaIc?si=rW0ZdnfikaHvdvMV
+- How to create a base with independant time:
+  - Create Base
+  - Right click and press 'add Component time'
+  - Go into base, then go into time and change the rate parameter to `cookRate()`
+  - change tim play parameter to `0` so it stops playing
+  - click `I` in bottom left hand screen for run independantly
+
+![image-20240123214441797](assets/image-20240123214441797.png)
+
+https://youtu.be/4wpn_3JNaIc?si=XMMdIlGArha4Ou4m&t=1496 (24:56)

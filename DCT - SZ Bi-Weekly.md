@@ -39,3 +39,35 @@
 #### 95 Bedford
 <span style='color:red'>**<u>CV</u>**</span> Call Mike - RE: 95B SPD
 
+
+
+# 1.29.2024 Meeting
+
+####  Prefab Facility Move
+
+62k / 1.5 years
+
+10 hrs week for 6 months
+
+- Call Robert
+- Call Hank
+
+Get pricing on smallest space at 5501 1st Building, 
+
+
+
+Follow with realator
+
+SZ to keep of 
+
+SZ to reach out to Machine Bidding website and ask about Warrant
+
+
+
+#### 95 Bedford
+
+<span style='color:red'>**<u>SZ</u>**</span> Elite CAD - Do cost comparison, 
+
+#### SPHD // Northfork
+
+<span style='color:red'>**<u>SZ</u>**</span> Jeff P from , send quick message.
