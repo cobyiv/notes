@@ -15,7 +15,7 @@
           2020 : 09/18 <br> Prefabrication Presentation : 08 thru 09 <br> Katherine Rainieri + Shengning Zhang Hired
           2021 : 06/03 <br> Panelized Framing Presentation : 08-11 <br> (🔴 LOST PROJ) <br> OK Prefab Prototype
           2022 : 04/22 <br> Robert Hermes Hired : 05/16 <br> 💎 Stowe uses DC Framing Shops : 11-12 <br> (🔴 LOST PROJ) <br> AGR Lot 3 prefab formwork
-          2023 : 4/3 <br> NSP L.29 Prefab Kickoff Mtg. : 7/23 <br> Prefab Flex Space Presentation : 9/1 <br> DC asked to look for Alt. Prefab Space : 💎 09/12 <br> Point House Prefab. Garage Installed
+          2023 : 4/3 <br> NSP L.29 Prefab Kickoff Mtg. : 7/23 <br> Prefab Flex Space Presentation : 6/1 <br> (🟡 ON HOLD)<br> High Camp Prefab Budget Integration : 9/1 <br> DC asked to look for Alt. Prefab Space : 💎 09/12 <br> Point House Prefab. Garage Installed
 ```
 
 
